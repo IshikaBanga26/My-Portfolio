@@ -85,7 +85,7 @@ npm run dev
 ## Live Demo
 
 ```
-https://your-portfolio-link.com
+https://ishikabanga26.github.io/My-Portfolio/
 ```
 
 ---
