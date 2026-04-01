@@ -1,5 +1,3 @@
-import { Download } from "lucide-react";
-
 export const AnimatedBorderButton = ({ children }) => {
   return (
     <button

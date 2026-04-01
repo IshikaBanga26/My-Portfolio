@@ -24,7 +24,7 @@ export const Footer = () => {
             <a href="#" className="text-xl hover:text-[var(--color-primary)] font-bold tracking-tight">
               IB<span className="text-[var(--color-primary)]">.</span>
             </a>
-            <p className="text-sm text-[var(--muted-foreground)] mt-2">
+            <p className="text-sm text-[var(--color-muted-foreground)] mt-2">
               © {currentYear} Ishika Banga. All rights reserved.
             </p>
           </div>
@@ -35,7 +35,7 @@ export const Footer = () => {
               <a
                 key={link.href}
                 href={link.href}
-                className="text-sm text-[var(--muted-foreground)] hover:text-[var(--color-secondary-foreground)] transition-colors"
+                className="text-sm text-[var(--color-muted-foreground)] hover:text-[var(--color-secondary-foreground)] transition-colors"
               >
                 {link.label}
               </a>
@@ -49,7 +49,7 @@ export const Footer = () => {
                 key={social.label}
                 href={social.href}
                 aria-label={social.label}
-                className="p-2 rounded-full glass hover:bg-[var(--primary)/10] hover:text-[var(--primary)] transition-all"
+                className="p-2 rounded-full glass hover:bg-[var(--color-primary)]/10 hover:text-[var(--color-primary)] transition-all"
               >
                 <social.icon className="w-5 h-5" />
               </a>

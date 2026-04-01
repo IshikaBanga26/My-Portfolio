@@ -18,7 +18,7 @@ export const Navbar = () => {
                 </a>
                 {/* Desktop Nav*/}
                 <div className="flex items-center gap-1">
-                    < div className="glass rounded-full px-2 py-1 md:flex items-center gap-1">
+                    < div className="glass rounded-full px-2 py-1 hidden md:flex items-center gap-1">
                         {navLinks.map((link, index) => (
                             <a 
                                 key={index} 
@@ -58,7 +58,9 @@ export const Navbar = () => {
                                 {link.label}
                             </a>
                         ))}
-                        <Button onClick = {() => setIsMobileMenuOpen(false)}>Contact Me</Button>
+                        <a href="#contact" onClick={() => setIsMobileMenuOpen(false)}>
+                            <Button>Contact Me</Button>
+                        </a>
                     </div>
                 </div>
                 )}
