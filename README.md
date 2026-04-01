@@ -31,7 +31,7 @@ The portfolio highlights my work, skills, and milestones while providing an easy
 ## Project Structure
 
 ```
-portfolio
+ISHIKA-PORTFOLIO
 │
 ├── public
 │   ├── hero-bg.png
@@ -59,13 +59,13 @@ portfolio
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/IshikaBanga26/My-Portfolio.git
+git clone https://github.com/IshikaBanga26/Ishika-Portfolio.git
 ```
 
 ### 2. Navigate to the project
 
 ```bash
-cd My-Portfolio
+cd ISHIKA-PORTFOLIO
 ```
 
 ### 3. Install dependencies
@@ -85,7 +85,7 @@ npm run dev
 ## Live Demo
 
 ```
-https://ishikabanga26.github.io/My-Portfolio/
+https://your-portfolio-link.com
 ```
 
 ---
