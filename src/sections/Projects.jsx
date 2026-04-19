@@ -15,7 +15,7 @@ const projects = [
     description:
       "A smart investment planning application designed to help users make informed financial decisions.",
     image: "projects/project2.png",
-    tags: ["Random Forest", "Financial APIs", "React"],
+    tags: ["Python", "Financial APIs", "React"],
     link: "https://portfolio-optimization-ebon.vercel.app/",
     github: "https://github.com/DipeshRaghav/Portfolio-Optimization-using-ML-and-Financial-APIs",
   },
