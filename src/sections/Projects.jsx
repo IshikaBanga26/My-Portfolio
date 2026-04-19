@@ -11,13 +11,13 @@ const projects = [
     github: "https://github.com/IshikaBanga26/Object-Detection",
   },
   {
-    title: "NoteMe",
+    title: "SmartInvest",
     description:
-      "An intuitive note-taking application designed to help users organize their thoughts and ideas seamlessly.",
+      "A smart investment planning application designed to help users make informed financial decisions.",
     image: "projects/project2.png",
-    tags: ["HTML", "CSS", "JavaScript"],
-    link: "https://ishikabanga26.github.io/NoteMe",
-    github: "https://github.com/IshikaBanga26/NoteMe",
+    tags: ["Random Forest", "Financial APIs", "React"],
+    link: "https://portfolio-optimization-ebon.vercel.app/",
+    github: "https://github.com/DipeshRaghav/Portfolio-Optimization-using-ML-and-Financial-APIs",
   },
   {
     title: "TabMind-CLI",

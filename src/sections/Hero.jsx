@@ -78,7 +78,7 @@ export const Hero = () => {
 
             {/* Download Resume Button */}
             <AnimatedBorderButton>
-              <a href = "Ishika_Banga_Resume.pdf" download className="flex items-center gap-2">
+              <a href = "/Ishika_Banga_Resume.pdf" download className="flex items-center gap-2">
               <Download className="w-5 h-5" />
               Download Resume
               </a>
