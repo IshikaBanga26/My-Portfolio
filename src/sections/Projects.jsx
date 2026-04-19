@@ -7,7 +7,7 @@ const projects = [
       "A machine learning model for detecting objects in images using TensorFlow and OpenCV.",
     image: "projects/project1.png",
     tags: ["Python", "TensorFlow", "OpenCV"],
-    link: "#",
+    link: "https://github.com/IshikaBanga26/Object-Detection",
     github: "https://github.com/IshikaBanga26/Object-Detection",
   },
   {
@@ -25,7 +25,7 @@ const projects = [
       "A tool that helps you manage saved browser tabs and generate AI-powered productivity reminders",
     image: "projects/project3.png",
     tags: ["Python", "GitHub CLI"],
-    link: "#",
+    link: "https://tabmind-cli.pages.dev",
     github: "https://github.com/IshikaBanga26/TabMind-CLI",
   },
   {
